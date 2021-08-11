@@ -21,7 +21,6 @@ _I will practice and learn a little more about git and github_
 - mkdir _pasta_
 - cd _pasta_
 - ctrl + l
-- ls
 - cd ..
 - git ssl Sha1 (_+ o nome do arquivo_)
 - cls
@@ -33,6 +32,11 @@ _I will practice and learn a little more about git and github_
 - echo 'conteudo' | git hash-object --stdin
 - git push
 - git push origin master
+- git push -u origin main
 - git remote add origin http://github...
+- git remote –v
 - git pull
+- git log
+- git status
+- git checkout -b tarefa/minha-primeira-branch
 
