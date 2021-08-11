@@ -40,3 +40,9 @@ _I will practice and learn a little more about git and github_
 - git status
 - git checkout -b tarefa/minha-primeira-branch
 
+
+# Exemplo de modificação em uma branch
+Veja a alteração com o git status, 
+adicione esse arquivo na área de staging com git add . 
+e faça o commit com o git commit –m "comentário".
+
